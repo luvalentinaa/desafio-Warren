@@ -1,6 +1,6 @@
 # Desafio 02  -- Warren tech
 
-<a href="">Acesse no Github Pages 🔗</a>
+<a href="https://github.com/luvalentinaa/desafio-Warren/edit/main/desafios-warren/desafio02-warren/">Acesse no Github Pages 🔗</a>
 
 
 [<img src="warren.png"> ]
