@@ -1,5 +1,5 @@
 # Desafio Warren  Tech Academy
 
 [
-<img src="/desafio-Warren/desafio-01-warren/warren.png">
+<img src="/desafios-warren/desafio01-warren/warren.png">
 ]
